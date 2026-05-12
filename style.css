@@ -1,7 +1,12 @@
 @charset "UTF-8";
 
-body{
-    margin: 2em;
+
+#CV{
+    height: 95vh;
+    width: 90vh;
+    border: 2px solid black;
+    margin: auto;
+    padding: 20px;
 }
 
 
@@ -18,10 +23,21 @@ h4{
     color: blue;
     font-weight: normal;
 }
+p{
+    text-align: justify;
+}
 
 a{
     text-decoration: none;
     color: black;
+    margin: 0px 20px ;
 }
 
+img{
+    width: 20px ;
+}
 
+footer{
+    font-size: small;
+    text-align: center;
+}
