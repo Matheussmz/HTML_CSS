@@ -1,7 +1,11 @@
 # HTML_CSS
  Objetivo e relembrar conteúdo de HTML e CSS.
 
- Vou aplicar os conhecimento básicos nesse portifólio.
- Esse portifólio deve conter a Home, o Sobre mim, Skills, Projetos e Contatos.
+Estou fazendo os Desafios do roadmap.sh
+
+Single-Page CV:
+Foi aplicado nesse projeto todos os requisitos chaves.
+
+HTML semântico, meta Tags SEO, abrir Gráfico (OG) Tags e favicon.
  
 
