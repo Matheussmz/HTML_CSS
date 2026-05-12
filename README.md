@@ -8,4 +8,4 @@ Foi aplicado nesse projeto todos os requisitos chaves.
 
 HTML semântico, meta Tags SEO, abrir Gráfico (OG) Tags e favicon.
  
-
+<a href="https://matheussmz.github.io/HTML_CSS/index.html"> Single-page CV<a>
