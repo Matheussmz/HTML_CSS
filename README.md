@@ -2,7 +2,7 @@
  Objetivo e relembrar conteúdo de HTML e CSS.
 
 Estou fazendo os Desafios do roadmap.sh
-
+<br>
 Single-Page CV:
 Foi aplicado nesse projeto todos os requisitos chaves.
 
