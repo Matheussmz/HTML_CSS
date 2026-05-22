@@ -2,8 +2,8 @@
 
 
 #CV{
-    height: 95vh;
-    width: 90vh;
+    min-width: 300px;
+    max-width: 800px;
     border: 2px solid black;
     margin: auto;
     padding: 20px;
